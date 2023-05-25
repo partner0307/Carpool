@@ -1,0 +1,174 @@
+{
+  "menu": [
+    {
+      "name": "Dashboard",
+      "icon": "home",
+      "dropdown": "1",
+      "slug": "",
+      "submenu": [
+        {
+          "url": "dashboard/analytics",
+          "name": "Analytics",
+          "icon": "trending-up",
+          "slug": "dashboard-analytics"
+        },
+        {
+          "url": "dashboard/user",
+          "name": "User",
+          "icon": "user",
+          "slug": "dashboard-user"
+        }
+      ]
+    },
+
+
+    {
+      "navheader": "Rides",
+      "slug": ""
+    },
+    {
+      "url": "rides/index",
+      "name": "Rides",
+      "icon": "clipboard",
+      "slug": "rides-index"
+    },
+
+
+    {
+      "navheader": "Reviews",
+      "slug": ""
+    },
+    {
+      "url": "reviews/customer",
+      "name": "Customer",
+      "icon": "star",
+      "slug": "reviews-customer"
+    },
+    {
+      "url": "reviews/driver",
+      "name": "Driver",
+      "icon": "star",
+      "slug": "reviews-driver"
+    },
+
+    
+    {
+      "navheader": "Settings App",
+      "slug": ""
+    },
+    {
+      "url": "settings/car-category",
+      "name": "Car Category",
+      "icon": "truck",
+      "slug": "settings-car-category"
+    },
+    {
+      "url": "settings/required-document",
+      "name": "Required Document",
+      "icon": "file-text",
+      "slug": "settings-required-document"
+    },
+    {
+      "url": "settings/promo-code",
+      "name": "Promo code",
+      "icon": "gift",
+      "slug": "settings-promo-code"
+    },
+    {
+      "url": "settings/business-code",
+      "name": "Business code",
+      "icon": "shield",
+      "slug": "settings-business-code"
+    },
+    {
+      "url": "settings/business-settings",
+      "name": "Business Settings",
+      "icon": "global",
+      "slug": "settings-business-settings"
+    },
+    {
+      "url": "settings/general-settings",
+      "name": "General Settings",
+      "icon": "global",
+      "slug": "settings-general-settings"
+    },
+    {
+      "url": "settings/push-notification",
+      "name": "Push Notification",
+      "icon": "message-circle",
+      "slug": "settings-push-notification"
+    },
+    {
+      "url": "settings/email-settings",
+      "name": "Email Settings",
+      "icon": "mail",
+      "slug": "settings-general-settings"
+    },
+    {
+      "url": "settings/policies-private",
+      "name": "Policies Private Page",
+      "icon": "file",
+      "slug": "settings-policies-private"
+    },
+    {
+      "url": "settings/tc",
+      "name": "T&C page",
+      "icon": "file",
+      "slug": "settings-tc"
+    },
+    {
+      "url": "settings/faqs",
+      "name": "Faqs page",
+      "icon": "mail",
+      "slug": "settings-faq"
+    },
+
+
+    {
+      "navheader": "Payment",
+      "slug": ""
+    },
+    {
+      "url": "payment/history",
+      "name": "Payment History",
+      "icon": "user",
+      "slug": "payment-history"
+    },
+    {
+      "url": "payment/settings",
+      "name": "Payment Settings",
+      "icon": "settings",
+      "slug": "payment-settings"
+    },
+
+
+    {
+      "navheader": "Account",
+      "slug": ""
+    },
+    {
+      "url": "account/system-accounts",
+      "name": "System Accounts",
+      "icon": "user",
+      "slug": "account-system-accounts"
+    },
+    {
+      "url": "account/account-settings",
+      "name": "Account Settings",
+      "icon": "user",
+      "slug": "account-settings"
+    },
+    {
+      "url": "account/change-password",
+      "name": "Change Password",
+      "icon": "eye-off",
+      "slug": "account-change-password"
+    },
+    {
+      "url": "account/logout",
+      "name": "Logout",
+      "icon": "log-out",
+      "slug": "account-logout"
+    }
+  ]
+}

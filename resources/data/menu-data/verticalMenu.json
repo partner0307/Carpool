@@ -1,0 +1,230 @@
+{
+    "menu": [
+        {
+            "name": "Dashboard",
+            "icon": "home",
+            "slug": "",
+            "submenu": [
+                {
+                "url": "dashboard/analytics",
+                "name": "Analytics",
+                "icon": "trending-up",
+                "slug": "dashboard-analytics-admin"
+                },
+                {
+                "url": "dashboard/user",
+                "name": "User",
+                "icon": "user",
+                "slug": "dashboard-user"
+                }
+            ]
+        },
+
+
+        {
+            "navheader": "Apps Services",
+            "slug": ""
+        },
+        {
+            "url": "apps/rides-carpool",
+            "name": "Rides Carpool",
+            "icon": "clipboard",
+            "slug": "apps-rides-carpool"
+        },
+        {
+            "url": "apps/rides-taxi",
+            "name": "Rides Taxi",
+            "icon": "clipboard",
+            "slug": "apps-rides-taxi"
+        },
+        {
+            "name": "Ecommerce",
+            "icon": "home",
+            "slug": "",
+            "submenu": [
+                {
+                    "url": "apps/ecommerce/products",
+                    "name": "Products",
+                    "slug": "apps-ecommerce-products"
+                },
+                {
+                    "url": "apps/ecommerce/sales",
+                    "name": "Sales",
+                    "slug": "apps-ecommerce-sales"
+                }
+            ]
+        },
+        {
+            "name": "Loan",
+            "icon": "dollar-sign",
+            "slug": "",
+            "submenu": [
+            {
+                "url": "apps/loans/history",
+                "name": "Loans History",
+                "slug": "apps-loans-history"
+            },
+            {
+                "url": "apps/loans/deposit",
+                "name": "Deposit",
+                "slug": "apps-loans-deposit"
+            },
+            {
+                "url": "apps/loans/plans",
+                "name": "Plans",
+                "slug": "apps-loans-plans"
+            }
+            ]
+        },
+
+
+        {
+            "navheader": "Rewards",
+            "slug": ""
+        },
+        {
+            "url": "rewards/index",
+            "name": "Rewards",
+            "icon": "gift",
+            "slug": "rewards-index"
+        },
+
+
+        {
+            "navheader": "Reviews",
+            "slug": ""
+        },
+        {
+            "url": "reviews/carpool",
+            "name": "Carpool",
+            "icon": "star",
+            "slug": "reviews-carpool"
+        },
+        {
+            "url": "reviews/taxi",
+            "name": "Taxi",
+            "icon": "star",
+            "slug": "reviews-taxi"
+        },
+        {
+            "url": "reviews/marketplace",
+            "name": "Marketplace",
+            "icon": "star",
+            "slug": "reviews-marketplace"
+        },
+
+
+        {
+            "navheader": "Settings App",
+            "slug": ""
+        },
+        {
+            "url": "settings/car-category",
+            "name": "Car Category",
+            "icon": "truck",
+            "slug": "settings-car-category"
+        },
+        {
+            "url": "settings/required-document",
+            "name": "Required Document",
+            "icon": "file-text",
+            "slug": "settings-required-document"
+        },
+        {
+            "url": "settings/promo-code",
+            "name": "Promo code",
+            "icon": "gift",
+            "slug": "settings-promo-code"
+        },
+        {
+            "url": "settings/business-list",
+            "name": "Business List",
+            "icon": "globe",
+            "slug": "settings-business-list"
+        },
+        {
+            "url": "settings/general-settings",
+            "name": "General Settings",
+            "icon": "globe",
+            "slug": "settings-general-settings"
+        },
+        {
+            "url": "settings/push-notification",
+            "name": "Push Notification",
+            "icon": "message-circle",
+            "slug": "settings-push-notification"
+        },
+        {
+            "url": "settings/notification-settings",
+            "name": "Notification Settings",
+            "icon": "mail",
+            "slug": "settings-notification-settings"
+        },
+        {
+            "url": "settings/policies-private",
+            "name": "Policies Private Page",
+            "icon": "file",
+            "slug": "settings-policies-private"
+        },
+        {
+            "url": "settings/tc",
+            "name": "T&C page",
+            "icon": "file",
+            "slug": "settings-tc"
+        },
+        {
+            "url": "settings/faqs",
+            "name": "Faqs page",
+            "icon": "mail",
+            "slug": "settings-faq"
+        },
+
+
+        {
+            "navheader": "Payment",
+            "slug": ""
+        },
+        {
+            "url": "payment/payout",
+            "name": "Payout",
+            "icon": "user",
+            "slug": "payment-payout"
+        },
+        {
+            "url": "payment/settings",
+            "name": "Payment Settings",
+            "icon": "settings",
+            "slug": "payment-settings"
+        },
+
+
+        {
+            "navheader": "Account",
+            "slug": ""
+        },
+        {
+            "url": "account/system-accounts",
+            "name": "System Accounts",
+            "icon": "user",
+            "slug": "account-system-accounts"
+        },
+        {
+            "url": "account/account-settings",
+            "name": "Account Settings",
+            "icon": "user",
+            "slug": "account-settings"
+        },
+        {
+            "url": "account/change-password",
+            "name": "Change Password",
+            "icon": "eye-off",
+            "slug": "account-change-password"
+        },
+        {
+            "url": "account/logout",
+            "name": "Logout",
+            "icon": "log-out",
+            "slug": "account-logout"
+        }
+    ]
+}

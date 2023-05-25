@@ -1,0 +1,43 @@
+<?php
+
+return [
+    "Dashboard" => "Dashboard",
+    "Analytics" => "Analytics",
+    "User" => "User",
+    "Apps Services" => "Apps Services",
+    "Rides Carpool" => "Rides Carpool",
+    "Rides Taxi" => "Rides Taxi",
+    "Ecommerce" => "Ecommerce",
+    "Products" => "Products",
+    "Sales" => "Sales",
+    "Loan" => "Loan",
+    "Loans History" => "Loans History",
+    "Deposit" => "Deposit",
+    "Plans" => "Plans",
+    "Rewards" => "Rewards",
+    "Reviews" => "Reviews",
+    "Carpool" => "Carpool",
+    "Taxi" => "Taxi",
+    "Marketplace" => "Marketplace",
+    "Settings App" => "Settings App",
+    "Car Category" => "Car Category",
+    "Required Document" => "Required Document",
+    "Promo code" => "Promo code",
+    "Business List" => "Business List",
+    "General Settings" => "General Settings",
+    "Push Notification" => "Push Notification",
+    "Notification Settings" => "Notification Settings",
+    "Policies Private Page" => "Policies Private Page",
+    "T&C page" => "T&C page",
+    "Faqs page" => "Faqs page",
+    "Payment" => "Payment",
+    "Payout" => "Payout",
+    "Payment Settings" => "Payment Settings",
+    "Account" => "Account",
+    "System Accounts" => "System Accounts",
+    "Account Settings" => "Account Settings",
+    "Change Password" => "Change Password",
+    "Logout" => "Logout"
+]
+
+?>
