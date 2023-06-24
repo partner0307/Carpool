@@ -4,6 +4,7 @@ This is pure laravel project made by vuexy template.
 Brings Bernard to Laravel. Laravel already has a great queue.. That's right, but it only works with Laravel. If your project/company utilizes multiple frameworks, Bernard provides leverage.
 
 Getting started
+<a href="https://app.daily.dev/ItamiWorld"><img src="https://api.daily.dev/devcards/dab7f860f7394fc0803744e36b99fc39.png?r=n4c" width="200" align='right' alt="Tadao Minami's Dev Card"/></a>
 ---------------
 
 Extend `composer.json` file:
